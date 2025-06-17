@@ -1,0 +1,25 @@
+{
+  "name": "remotion-math",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion render",
+    "upgrade": "remotion upgrade",
+    "render": "remotion render src/index.ts math-education-video out/video.mp4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@remotion/cli": "^4.0.314",
+    "@remotion/player": "^4.0.314",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "remotion": "^4.0.314",
+    "typescript": "^5.8.3"
+  }
+}

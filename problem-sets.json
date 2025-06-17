@@ -1,0 +1,124 @@
+{
+  "educational_problem_sets": {
+    "beginner": {
+      "title": "初級編：基本の筆算",
+      "description": "繰り上がりなしの2桁計算",
+      "problems": [
+        {
+          "number1": 23,
+          "number2": 16,
+          "title": "はじめての筆算",
+          "lesson_focus": "桁を揃えて計算する基本"
+        },
+        {
+          "number1": 31,
+          "number2": 12,
+          "title": "1の位から順番に",
+          "lesson_focus": "右から左へ計算する順序"
+        },
+        {
+          "number1": 42,
+          "number2": 25,
+          "title": "2桁の足し算",
+          "lesson_focus": "各桁の計算を丁寧に"
+        },
+        {
+          "number1": 51,
+          "number2": 34,
+          "title": "慣れてきた筆算",
+          "lesson_focus": "スピードアップの練習"
+        }
+      ]
+    },
+    "intermediate": {
+      "title": "中級編：繰り上がりの練習",
+      "description": "繰り上がりありの2桁計算",
+      "problems": [
+        {
+          "number1": 27,
+          "number2": 35,
+          "title": "はじめての繰り上がり",
+          "lesson_focus": "1の位で10以上になる場合"
+        },
+        {
+          "number1": 48,
+          "number2": 37,
+          "title": "繰り上がりをマスター",
+          "lesson_focus": "繰り上がりを忘れずに"
+        },
+        {
+          "number1": 59,
+          "number2": 28,
+          "title": "10の位も繰り上がり",
+          "lesson_focus": "両方の桁で繰り上がり"
+        },
+        {
+          "number1": 76,
+          "number2": 89,
+          "title": "難しい繰り上がり",
+          "lesson_focus": "複雑な繰り上がり計算"
+        }
+      ]
+    },
+    "advanced": {
+      "title": "上級編：3桁の計算",
+      "description": "3桁同士の足し算",
+      "problems": [
+        {
+          "number1": 123,
+          "number2": 456,
+          "title": "3桁の基本",
+          "lesson_focus": "3桁の筆算の書き方"
+        },
+        {
+          "number1": 287,
+          "number2": 156,
+          "title": "3桁で繰り上がり",
+          "lesson_focus": "複数桁での繰り上がり"
+        },
+        {
+          "number1": 394,
+          "number2": 278,
+          "title": "連続繰り上がり",
+          "lesson_focus": "すべての桁で繰り上がり"
+        },
+        {
+          "number1": 567,
+          "number2": 898,
+          "title": "3桁マスター",
+          "lesson_focus": "大きな数の計算に挑戦"
+        }
+      ]
+    },
+    "special": {
+      "title": "特別編：実用的な計算",
+      "description": "日常で使える計算",
+      "problems": [
+        {
+          "number1": 150,
+          "number2": 250,
+          "title": "お買い物の計算",
+          "lesson_focus": "実生活での足し算"
+        },
+        {
+          "number1": 324,
+          "number2": 176,
+          "title": "貯金の計算",
+          "lesson_focus": "お金の計算練習"
+        },
+        {
+          "number1": 789,
+          "number2": 456,
+          "title": "大きな数の計算",
+          "lesson_focus": "難しい計算にチャレンジ"
+        },
+        {
+          "number1": 999,
+          "number2": 111,
+          "title": "特別な数の組み合わせ",
+          "lesson_focus": "パターンを見つける楽しさ"
+        }
+      ]
+    }
+  }
+}
