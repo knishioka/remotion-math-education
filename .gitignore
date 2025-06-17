@@ -4,10 +4,20 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Production build
+# Production build and video files
 out/
 dist/
 build/
+*.mp4
+*.mov
+*.avi
+*.webm
+*.mkv
+*.flv
+*.wmv
+*.m4v
+*.mpg
+*.mpeg
 
 # Environment variables
 .env
